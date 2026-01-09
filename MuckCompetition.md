@@ -58,6 +58,8 @@ To register your team, please scan the QR code provided on the competition flyer
 
 [**Muck Competition Sign Up (Qualtrics)**](#) https://ohio.yul1.qualtrics.com/jfe5/preview/previewId/2ad7d55f-77a7-4fad-88ee-d779a86a93a4/SV_88sUAYZVSObgnye?Q_CHL=preview&Q_SurveyVersionID= 
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ff442d6f-d6ca-4990-a5a8-81041541a419" />
+
 > [!IMPORTANT]
 > Ensure your team's details are final. If edits are needed post-submission, please contact **Tasha Penwell** at [penwellt@ohio.edu](mailto:penwellt@ohio.edu) or text **740-645-0509**.
 
