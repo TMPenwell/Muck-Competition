@@ -56,7 +56,7 @@ Only the top-scoring groups from the first round will advance to present in fron
 ## 5. Registration & Support
 To register your team, please scan the QR code provided on the competition flyers or use the link below:
 
-[**Muck Competition Sign Up (Qualtrics)**](#)
+[**Muck Competition Sign Up (Qualtrics)**](#) https://ohio.yul1.qualtrics.com/jfe5/preview/previewId/2ad7d55f-77a7-4fad-88ee-d779a86a93a4/SV_88sUAYZVSObgnye?Q_CHL=preview&Q_SurveyVersionID= 
 
 > [!IMPORTANT]
 > Ensure your team's details are final. If edits are needed post-submission, please contact **Tasha Penwell** at [penwellt@ohio.edu](mailto:penwellt@ohio.edu) or text **740-645-0509**.
