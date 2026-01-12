@@ -1,4 +1,4 @@
-# The Muck Business Analytics Competition
+# The Muck Business Competition
 ## Project Overview & Guidelines
 
 Welcome to the **2026 Muck Business Analytics Competition**. This challenge tasks student teams with leveraging data acquisition, algorithmic design, and presentation skills to identify and present a "Top Honorees" list based on rigorous impact scoring models.
